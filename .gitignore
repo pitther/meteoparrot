@@ -1,5 +1,8 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
+# ide
+/.idea/
+
 # dependencies
 /node_modules
 
@@ -8,10 +11,6 @@
 
 # production
 /build
-
-#ide
-/.idea/
-
 
 # misc
 .DS_Store

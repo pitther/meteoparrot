@@ -1,0 +1,14 @@
+.root {
+    height: 40px !important;
+}
+
+.group {
+    height: 40px !important;
+}
+
+.heading {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}

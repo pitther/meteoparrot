@@ -1,0 +1,19 @@
+.root {
+    flex: 1 1 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.file {
+    flex: 0 0 auto;
+}
+
+.file > span::after {
+    content: 'Вибрати';
+    line-height: 24px;
+}
+
+.table {
+    flex: 1 1 auto;
+}

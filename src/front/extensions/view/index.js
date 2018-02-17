@@ -1,7 +1,7 @@
 import View from './View';
 
 export default {
-    title: 'Переглянути',
+    title: 'View',
     icon: 'th',
     component: View
 };

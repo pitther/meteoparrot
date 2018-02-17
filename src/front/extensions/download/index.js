@@ -1,7 +1,7 @@
 import Download from './Download';
 
 export default {
-    title: 'Завантажити',
+    title: 'Download',
     icon: 'download',
     component: Download
 };

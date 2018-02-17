@@ -33,7 +33,7 @@ class Stations extends Component {
             label: 'WBAN'
         }, {
             field: 'name',
-            label: 'І\'мя',
+            label: 'Назва станції',
             grow: 1
         }, {
             field: 'country',

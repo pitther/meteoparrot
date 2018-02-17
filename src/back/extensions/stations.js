@@ -39,7 +39,6 @@ function load(socket, content) {
 
         socket.emit('stations.load-started', {count});
 
-
         for (let i = 0; i < count; i++) {
             if (i % 100 === 0) {
                 socket.emit('stations.load-progress', {current: i, count});

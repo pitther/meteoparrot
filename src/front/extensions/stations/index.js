@@ -1,7 +1,7 @@
 import Stations from './Stations';
 
 export default {
-    title: 'Станції',
+    title: 'Stations',
     icon: 'dashboard',
     component: Stations
 };
